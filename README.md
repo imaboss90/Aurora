@@ -7,6 +7,7 @@ Aurora is a dynamic music streaming platform designed to offer users a tailored 
 **Features**
 - Spotify Integration: Real-time access to music libraries, metadata, and artist profiles using the Spotify API.
 - User Authentication: Secure user sign-in and registration facilitated through Firebase authentication.
+
 **Unique UI Elements:**
 - Circular Artist Swatch: Evenly distributed recommended artists with smooth CSS transformations.
 - Aurora Effect: A captivating backdrop transitioning like the northern lights using CSS gradients and keyframe animations.
