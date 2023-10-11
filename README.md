@@ -1,7 +1,7 @@
 # Aurora: A Personalized Music Streaming Platform
 Aurora is a dynamic music streaming platform designed to offer users a tailored listening experience. With Aurora, users receive personalized artist, album, and song recommendations, creating a unique and immersive auditory journey.
 
-Initial Mock-up: https://www.figma.com/file/gjertf7hrA1hiykQ79Q8tF/Aurora-Mock-up?type=design&node-id=0%3A1&mode=design&t=e9cAhIWy94lfHkWu-1
+**Initial Mock-up:** https://www.figma.com/file/gjertf7hrA1hiykQ79Q8tF/Aurora-Mock-up?type=design&node-id=0%3A1&mode=design&t=e9cAhIWy94lfHkWu-1
 
 
 **Features**
